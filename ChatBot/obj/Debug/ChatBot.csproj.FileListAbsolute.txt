@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBot.resources
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\obj\Debug\ChatBot.Form2.resources
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\bin\Debug\WhatsAppApi.dll
+C:\Users\User\Desktop\MyProject\ChatBot\ChatBot\bin\Debug\OpenWeatherMap.dll
